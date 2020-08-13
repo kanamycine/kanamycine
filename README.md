@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm samuel
+
+### About ME
+- Blog : [My Dev Blog](velog.io@kanamycine)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanamycine)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **kanamycine/kanamycine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
